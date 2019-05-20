@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Chen Asraf",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "NODE_ENV=production webpack && zip -9 -j release.zip dist/*"
+  },
   "devDependencies": {
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
