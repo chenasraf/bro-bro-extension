@@ -1,0 +1,17 @@
+{
+  "content_scripts": [{
+    "matches": ["https://*.facebook.com/*","https://facebook.com/*"],
+    "css": ["bro.css"],
+    "js": ["bro.js"]
+  }],
+  "browser_action": {
+    "default_title": "אחי, אחי",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "manifest_version": 2,
+  "name": "Bro Bro Wrapper",
+  "version": "1.0.0"
+}

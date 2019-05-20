@@ -1,0 +1,13 @@
+.__brolang_tag_p.__brolang_he::before,
+.__brolang_tag_p.__brolang_he::after,
+.__brolang_tag_div.__brolang_he p::before,
+.__brolang_tag_div.__brolang_he p::after {
+  content: ' אחי ';
+}
+
+.__brolang_tag_p.__brolang_en::before,
+.__brolang_tag_p.__brolang_en::after,
+.__brolang_tag_div.__brolang_en p::before,
+.__brolang_tag_div.__brolang_en p::after {
+  content: ' bro ';
+}

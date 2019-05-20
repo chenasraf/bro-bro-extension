@@ -1,0 +1,655 @@
+[{
+  "name": "Albania Lek",
+  "currency_code": "ALL",
+  "html": "Lek",
+  "unicode_dec": ["76", "101", "107"],
+  "unicode_hex": ["4c", "65", "6b"]
+}, {
+  "name": "Afghanistan Afghani",
+  "currency_code": "AFN",
+  "html": "؋",
+  "unicode_dec": ["1547"],
+  "unicode_hex": ["60b"]
+}, {
+  "name": "Argentina Peso",
+  "currency_code": "ARS",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Aruba Guilder",
+  "currency_code": "AWG",
+  "html": "ƒ",
+  "unicode_dec": ["402"],
+  "unicode_hex": ["192"]
+}, {
+  "name": "Australia Dollar",
+  "currency_code": "AUD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Azerbaijan Manat",
+  "currency_code": "AZN",
+  "html": "₼",
+  "unicode_dec": ["8380"],
+  "unicode_hex": ["20bc"]
+}, {
+  "name": "Bahamas Dollar",
+  "currency_code": "BSD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Barbados Dollar",
+  "currency_code": "BBD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Belarus Ruble",
+  "currency_code": "BYN",
+  "html": "Br",
+  "unicode_dec": ["66", "114"],
+  "unicode_hex": ["42", "72"]
+}, {
+  "name": "Belize Dollar",
+  "currency_code": "BZD",
+  "html": "BZ$",
+  "unicode_dec": ["66", "90", "36"],
+  "unicode_hex": ["42", "5a", "24"]
+}, {
+  "name": "Bermuda Dollar",
+  "currency_code": "BMD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Bolivia Bolíviano",
+  "currency_code": "BOB",
+  "html": "$b",
+  "unicode_dec": ["36", "98"],
+  "unicode_hex": ["24", "62"]
+}, {
+  "name": "Bosnia and Herzegovina Convertible Marka",
+  "currency_code": "BAM",
+  "html": "KM",
+  "unicode_dec": ["75", "77"],
+  "unicode_hex": ["4b", "4d"]
+}, {
+  "name": "Botswana Pula",
+  "currency_code": "BWP",
+  "html": "P",
+  "unicode_dec": ["80"],
+  "unicode_hex": ["50"]
+}, {
+  "name": "Bulgaria Lev",
+  "currency_code": "BGN",
+  "html": "лв",
+  "unicode_dec": ["1083", "1074"],
+  "unicode_hex": ["43b", "432"]
+}, {
+  "name": "Brazil Real",
+  "currency_code": "BRL",
+  "html": "R$",
+  "unicode_dec": ["82", "36"],
+  "unicode_hex": ["52", "24"]
+}, {
+  "name": "Brunei Darussalam Dollar",
+  "currency_code": "BND",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Cambodia Riel",
+  "currency_code": "KHR",
+  "html": "៛",
+  "unicode_dec": ["6107"],
+  "unicode_hex": ["17db"]
+}, {
+  "name": "Canada Dollar",
+  "currency_code": "CAD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Cayman Islands Dollar",
+  "currency_code": "KYD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Chile Peso",
+  "currency_code": "CLP",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "China Yuan Renminbi",
+  "currency_code": "CNY",
+  "html": "¥",
+  "unicode_dec": ["165"],
+  "unicode_hex": ["a5"]
+}, {
+  "name": "Colombia Peso",
+  "currency_code": "COP",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Costa Rica Colon",
+  "currency_code": "CRC",
+  "html": "₡",
+  "unicode_dec": ["8353"],
+  "unicode_hex": ["20a1"]
+}, {
+  "name": "Croatia Kuna",
+  "currency_code": "HRK",
+  "html": "kn",
+  "unicode_dec": ["107", "110"],
+  "unicode_hex": ["6b", "6e"]
+}, {
+  "name": "Cuba Peso",
+  "currency_code": "CUP",
+  "html": "₱",
+  "unicode_dec": ["8369"],
+  "unicode_hex": ["20b1"]
+}, {
+  "name": "Czech Republic Koruna",
+  "currency_code": "CZK",
+  "html": "Kč",
+  "unicode_dec": ["75", "269"],
+  "unicode_hex": ["4b", "10d"]
+}, {
+  "name": "Denmark Krone",
+  "currency_code": "DKK",
+  "html": "kr",
+  "unicode_dec": ["107", "114"],
+  "unicode_hex": ["6b", "72"]
+}, {
+  "name": "Dominican Republic Peso",
+  "currency_code": "DOP",
+  "html": "RD$",
+  "unicode_dec": ["82", "68", "36"],
+  "unicode_hex": ["52", "44", "24"]
+}, {
+  "name": "East Caribbean Dollar",
+  "currency_code": "XCD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Egypt Pound",
+  "currency_code": "EGP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "El Salvador Colon",
+  "currency_code": "SVC",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Euro Member Countries",
+  "currency_code": "EUR",
+  "html": "€",
+  "unicode_dec": ["8364"],
+  "unicode_hex": ["20ac"]
+}, {
+  "name": "Falkland Islands (Malvinas) Pound",
+  "currency_code": "FKP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "Fiji Dollar",
+  "currency_code": "FJD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Ghana Cedi",
+  "currency_code": "GHS",
+  "html": "¢",
+  "unicode_dec": ["162"],
+  "unicode_hex": ["a2"]
+}, {
+  "name": "Gibraltar Pound",
+  "currency_code": "GIP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "Guatemala Quetzal",
+  "currency_code": "GTQ",
+  "html": "Q",
+  "unicode_dec": ["81"],
+  "unicode_hex": ["51"]
+}, {
+  "name": "Guernsey Pound",
+  "currency_code": "GGP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "Guyana Dollar",
+  "currency_code": "GYD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Honduras Lempira",
+  "currency_code": "HNL",
+  "html": "L",
+  "unicode_dec": ["76"],
+  "unicode_hex": ["4c"]
+}, {
+  "name": "Hong Kong Dollar",
+  "currency_code": "HKD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Hungary Forint",
+  "currency_code": "HUF",
+  "html": "Ft",
+  "unicode_dec": ["70", "116"],
+  "unicode_hex": ["46", "74"]
+}, {
+  "name": "Iceland Krona",
+  "currency_code": "ISK",
+  "html": "kr",
+  "unicode_dec": ["107", "114"],
+  "unicode_hex": ["6b", "72"]
+}, {
+  "name": "India Rupee",
+  "currency_code": "INR",
+  "html": "",
+  "unicode_dec": [""],
+  "unicode_hex": [""]
+}, {
+  "name": "Indonesia Rupiah",
+  "currency_code": "IDR",
+  "html": "Rp",
+  "unicode_dec": ["82", "112"],
+  "unicode_hex": ["52", "70"]
+}, {
+  "name": "Iran Rial",
+  "currency_code": "IRR",
+  "html": "﷼",
+  "unicode_dec": ["65020"],
+  "unicode_hex": ["fdfc"]
+}, {
+  "name": "Isle of Man Pound",
+  "currency_code": "IMP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "Israel Shekel",
+  "currency_code": "ILS",
+  "html": "₪",
+  "unicode_dec": ["8362"],
+  "unicode_hex": ["20aa"]
+}, {
+  "name": "Jamaica Dollar",
+  "currency_code": "JMD",
+  "html": "J$",
+  "unicode_dec": ["74", "36"],
+  "unicode_hex": ["4a", "24"]
+}, {
+  "name": "Japan Yen",
+  "currency_code": "JPY",
+  "html": "¥",
+  "unicode_dec": ["165"],
+  "unicode_hex": ["a5"]
+}, {
+  "name": "Jersey Pound",
+  "currency_code": "JEP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "Kazakhstan Tenge",
+  "currency_code": "KZT",
+  "html": "лв",
+  "unicode_dec": ["1083", "1074"],
+  "unicode_hex": ["43b", "432"]
+}, {
+  "name": "Korea (North) Won",
+  "currency_code": "KPW",
+  "html": "₩",
+  "unicode_dec": ["8361"],
+  "unicode_hex": ["20a9"]
+}, {
+  "name": "Korea (South) Won",
+  "currency_code": "KRW",
+  "html": "₩",
+  "unicode_dec": ["8361"],
+  "unicode_hex": ["20a9"]
+}, {
+  "name": "Kyrgyzstan Som",
+  "currency_code": "KGS",
+  "html": "лв",
+  "unicode_dec": ["1083", "1074"],
+  "unicode_hex": ["43b", "432"]
+}, {
+  "name": "Laos Kip",
+  "currency_code": "LAK",
+  "html": "₭",
+  "unicode_dec": ["8365"],
+  "unicode_hex": ["20ad"]
+}, {
+  "name": "Lebanon Pound",
+  "currency_code": "LBP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "Liberia Dollar",
+  "currency_code": "LRD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Macedonia Denar",
+  "currency_code": "MKD",
+  "html": "ден",
+  "unicode_dec": ["1076", "1077", "1085"],
+  "unicode_hex": ["434", "435", "43d"]
+}, {
+  "name": "Malaysia Ringgit",
+  "currency_code": "MYR",
+  "html": "RM",
+  "unicode_dec": ["82", "77"],
+  "unicode_hex": ["52", "4d"]
+}, {
+  "name": "Mauritius Rupee",
+  "currency_code": "MUR",
+  "html": "₨",
+  "unicode_dec": ["8360"],
+  "unicode_hex": ["20a8"]
+}, {
+  "name": "Mexico Peso",
+  "currency_code": "MXN",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Mongolia Tughrik",
+  "currency_code": "MNT",
+  "html": "₮",
+  "unicode_dec": ["8366"],
+  "unicode_hex": ["20ae"]
+}, {
+  "name": "Mozambique Metical",
+  "currency_code": "MZN",
+  "html": "MT",
+  "unicode_dec": ["77", "84"],
+  "unicode_hex": ["4d", "54"]
+}, {
+  "name": "Namibia Dollar",
+  "currency_code": "NAD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Nepal Rupee",
+  "currency_code": "NPR",
+  "html": "₨",
+  "unicode_dec": ["8360"],
+  "unicode_hex": ["20a8"]
+}, {
+  "name": "Netherlands Antilles Guilder",
+  "currency_code": "ANG",
+  "html": "ƒ",
+  "unicode_dec": ["402"],
+  "unicode_hex": ["192"]
+}, {
+  "name": "New Zealand Dollar",
+  "currency_code": "NZD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Nicaragua Cordoba",
+  "currency_code": "NIO",
+  "html": "C$",
+  "unicode_dec": ["67", "36"],
+  "unicode_hex": ["43", "24"]
+}, {
+  "name": "Nigeria Naira",
+  "currency_code": "NGN",
+  "html": "₦",
+  "unicode_dec": ["8358"],
+  "unicode_hex": ["20a6"]
+}, {
+  "name": "Norway Krone",
+  "currency_code": "NOK",
+  "html": "kr",
+  "unicode_dec": ["107", "114"],
+  "unicode_hex": ["6b", "72"]
+}, {
+  "name": "Oman Rial",
+  "currency_code": "OMR",
+  "html": "﷼",
+  "unicode_dec": ["65020"],
+  "unicode_hex": ["fdfc"]
+}, {
+  "name": "Pakistan Rupee",
+  "currency_code": "PKR",
+  "html": "₨",
+  "unicode_dec": ["8360"],
+  "unicode_hex": ["20a8"]
+}, {
+  "name": "Panama Balboa",
+  "currency_code": "PAB",
+  "html": "B/.",
+  "unicode_dec": ["66", "47", "46"],
+  "unicode_hex": ["42", "2f", "2e"]
+}, {
+  "name": "Paraguay Guarani",
+  "currency_code": "PYG",
+  "html": "Gs",
+  "unicode_dec": ["71", "115"],
+  "unicode_hex": ["47", "73"]
+}, {
+  "name": "Peru Sol",
+  "currency_code": "PEN",
+  "html": "S/.",
+  "unicode_dec": ["83", "47", "46"],
+  "unicode_hex": ["53", "2f", "2e"]
+}, {
+  "name": "Philippines Peso",
+  "currency_code": "PHP",
+  "html": "₱",
+  "unicode_dec": ["8369"],
+  "unicode_hex": ["20b1"]
+}, {
+  "name": "Poland Zloty",
+  "currency_code": "PLN",
+  "html": "zł",
+  "unicode_dec": ["122", "322"],
+  "unicode_hex": ["7a", "142"]
+}, {
+  "name": "Qatar Riyal",
+  "currency_code": "QAR",
+  "html": "﷼",
+  "unicode_dec": ["65020"],
+  "unicode_hex": ["fdfc"]
+}, {
+  "name": "Romania Leu",
+  "currency_code": "RON",
+  "html": "lei",
+  "unicode_dec": ["108", "101", "105"],
+  "unicode_hex": ["6c", "65", "69"]
+}, {
+  "name": "Russia Ruble",
+  "currency_code": "RUB",
+  "html": "₽",
+  "unicode_dec": ["8381"],
+  "unicode_hex": ["20bd"]
+}, {
+  "name": "Saint Helena Pound",
+  "currency_code": "SHP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "Saudi Arabia Riyal",
+  "currency_code": "SAR",
+  "html": "﷼",
+  "unicode_dec": ["65020"],
+  "unicode_hex": ["fdfc"]
+}, {
+  "name": "Serbia Dinar",
+  "currency_code": "RSD",
+  "html": "Дин.",
+  "unicode_dec": ["1044", "1080", "1085", "46"],
+  "unicode_hex": ["414", "438", "43d", "2e"]
+}, {
+  "name": "Seychelles Rupee",
+  "currency_code": "SCR",
+  "html": "₨",
+  "unicode_dec": ["8360"],
+  "unicode_hex": ["20a8"]
+}, {
+  "name": "Singapore Dollar",
+  "currency_code": "SGD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Solomon Islands Dollar",
+  "currency_code": "SBD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Somalia Shilling",
+  "currency_code": "SOS",
+  "html": "S",
+  "unicode_dec": ["83"],
+  "unicode_hex": ["53"]
+}, {
+  "name": "South Africa Rand",
+  "currency_code": "ZAR",
+  "html": "R",
+  "unicode_dec": ["82"],
+  "unicode_hex": ["52"]
+}, {
+  "name": "Sri Lanka Rupee",
+  "currency_code": "LKR",
+  "html": "₨",
+  "unicode_dec": ["8360"],
+  "unicode_hex": ["20a8"]
+}, {
+  "name": "Sweden Krona",
+  "currency_code": "SEK",
+  "html": "kr",
+  "unicode_dec": ["107", "114"],
+  "unicode_hex": ["6b", "72"]
+}, {
+  "name": "Switzerland Franc",
+  "currency_code": "CHF",
+  "html": "CHF",
+  "unicode_dec": ["67", "72", "70"],
+  "unicode_hex": ["43", "48", "46"]
+}, {
+  "name": "Suriname Dollar",
+  "currency_code": "SRD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Syria Pound",
+  "currency_code": "SYP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "Taiwan New Dollar",
+  "currency_code": "TWD",
+  "html": "NT$",
+  "unicode_dec": ["78", "84", "36"],
+  "unicode_hex": ["4e", "54", "24"]
+}, {
+  "name": "Thailand Baht",
+  "currency_code": "THB",
+  "html": "฿",
+  "unicode_dec": ["3647"],
+  "unicode_hex": ["e3f"]
+}, {
+  "name": "Trinidad and Tobago Dollar",
+  "currency_code": "TTD",
+  "html": "TT$",
+  "unicode_dec": ["84", "84", "36"],
+  "unicode_hex": ["54", "54", "24"]
+}, {
+  "name": "Turkey Lira",
+  "currency_code": "TRY",
+  "html": "",
+  "unicode_dec": [""],
+  "unicode_hex": [""]
+}, {
+  "name": "Tuvalu Dollar",
+  "currency_code": "TVD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Ukraine Hryvnia",
+  "currency_code": "UAH",
+  "html": "₴",
+  "unicode_dec": ["8372"],
+  "unicode_hex": ["20b4"]
+}, {
+  "name": "United Kingdom Pound",
+  "currency_code": "GBP",
+  "html": "£",
+  "unicode_dec": ["163"],
+  "unicode_hex": ["a3"]
+}, {
+  "name": "United States Dollar",
+  "currency_code": "USD",
+  "html": "$",
+  "unicode_dec": ["36"],
+  "unicode_hex": ["24"]
+}, {
+  "name": "Uruguay Peso",
+  "currency_code": "UYU",
+  "html": "$U",
+  "unicode_dec": ["36", "85"],
+  "unicode_hex": ["24", "55"]
+}, {
+  "name": "Uzbekistan Som",
+  "currency_code": "UZS",
+  "html": "лв",
+  "unicode_dec": ["1083", "1074"],
+  "unicode_hex": ["43b", "432"]
+}, {
+  "name": "Venezuela Bolívar",
+  "currency_code": "VEF",
+  "html": "Bs",
+  "unicode_dec": ["66", "115"],
+  "unicode_hex": ["42", "73"]
+}, {
+  "name": "Viet Nam Dong",
+  "currency_code": "VND",
+  "html": "₫",
+  "unicode_dec": ["8363"],
+  "unicode_hex": ["20ab"]
+}, {
+  "name": "Yemen Rial",
+  "currency_code": "YER",
+  "html": "﷼",
+  "unicode_dec": ["65020"],
+  "unicode_hex": ["fdfc"]
+}, {
+  "name": "Zimbabwe Dollar",
+  "currency_code": "ZWD",
+  "html": "Z$",
+  "unicode_dec": ["90", "36"],
+  "unicode_hex": ["5a", "24"]
+}]
